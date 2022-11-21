@@ -1,0 +1,3 @@
+FILE: ./InstancesNodesSetC/Graph-9.txt
+None
+EXECUTED TIME: 0.07343173027038574

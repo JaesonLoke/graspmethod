@@ -1,0 +1,3 @@
+FILE: ./InstancesNodesSetD/Graph-12.txt
+None
+EXECUTED TIME: 0.017731666564941406

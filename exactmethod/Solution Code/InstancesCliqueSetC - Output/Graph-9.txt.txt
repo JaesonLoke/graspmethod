@@ -1,0 +1,3 @@
+FILE: ./InstancesCliqueSet/Graph-9.txt
+None
+EXECUTED TIME: 0.5568227767944336

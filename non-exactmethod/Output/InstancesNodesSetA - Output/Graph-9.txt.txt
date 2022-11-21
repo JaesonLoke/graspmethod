@@ -1,0 +1,4 @@
+FILE: InstancesNodesSetA/Graph-9.txt
+MAX CLIQUE: 11
+EXECUTED TIME: 0.027666330337524414s
+Clique vertices: [20, 17, 1, 5, 23, 18, 11, 7, 4, 19, 12]

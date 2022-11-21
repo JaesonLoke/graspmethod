@@ -1,0 +1,4 @@
+FILE: InstancesNodesSetB/Graph-12.txt
+MAX CLIQUE: 7
+EXECUTED TIME: 0.06660223007202148s
+Clique vertices: [14, 15, 22, 5, 21, 23, 29]

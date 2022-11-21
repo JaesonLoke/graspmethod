@@ -1,0 +1,4 @@
+FILE: InstancesCliqueSet/Graph-8.txt
+MAX CLIQUE: 7
+EXECUTED TIME: 0.0656137466430664s
+Clique vertices: [12, 5, 18, 23, 8, 7, 16]

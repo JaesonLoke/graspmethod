@@ -1,0 +1,4 @@
+FILE: InstancesEdgesSetC/Graph-2.txt
+MAX CLIQUE: 7
+EXECUTED TIME: 0.06642341613769531s
+Clique vertices: [26, 3, 6, 12, 30, 1, 14]

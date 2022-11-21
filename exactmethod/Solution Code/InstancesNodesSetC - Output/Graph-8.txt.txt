@@ -1,0 +1,3 @@
+FILE: ./InstancesNodesSetC/Graph-8.txt
+None
+EXECUTED TIME: 0.05625343322753906

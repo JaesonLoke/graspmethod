@@ -1,0 +1,4 @@
+FILE: InstancesNodesSetD/Graph-8.txt
+MAX CLIQUE: 4
+EXECUTED TIME: 0.31017303466796875s
+Clique vertices: [44, 41, 47, 49]

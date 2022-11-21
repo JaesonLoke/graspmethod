@@ -1,0 +1,4 @@
+FILE: InstancesNodesSetD/Graph-2.txt
+MAX CLIQUE: 4
+EXECUTED TIME: 0.2645227909088135s
+Clique vertices: [17, 27, 46, 43]

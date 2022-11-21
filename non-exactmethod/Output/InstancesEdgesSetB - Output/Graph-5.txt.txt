@@ -1,0 +1,4 @@
+FILE: InstancesEdgesSetB/Graph-5.txt
+MAX CLIQUE: 7
+EXECUTED TIME: 0.07190561294555664s
+Clique vertices: [13, 15, 6, 23, 3, 24, 11]

@@ -1,0 +1,3 @@
+FILE: ./InstancesNodesSetC/Graph-14.txt
+None
+EXECUTED TIME: 0.04888463020324707
